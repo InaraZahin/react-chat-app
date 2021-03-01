@@ -1,3 +1,7 @@
+A chat app made using React JS which used Sockets, Rest APIs, Images, React Hooks, Props, and CSS. Components used in this project were made from react-chat-engine (https://www.npmjs.com/package/react-chat-engine). Backend is hosted by https://chatengine.io​. This app reveals online statuses, has a good design and functionality, has icons telling you who read the message, image support, sound notifications, the ability to create multiple rooms, etc.  
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
